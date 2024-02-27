@@ -1,8 +1,0 @@
-{
-  "cron": [
-    {
-      "command": "python main.py",
-      "schedule": "* * * * *"
-    }
-  ]
-}
